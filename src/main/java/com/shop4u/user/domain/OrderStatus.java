@@ -1,0 +1,10 @@
+package com.shop4u.user.domain;
+
+public enum OrderStatus {
+	PENDING,
+    PLACED,
+    CONFIRMED,
+    SHIPPED,
+    DELIVERED,
+    CANCELLED
+}
