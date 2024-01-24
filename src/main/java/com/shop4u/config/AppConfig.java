@@ -44,7 +44,7 @@ public class AppConfig {
 								"http://localhost:5173/",
 								"http://localhost:4000",
 								"http://localhost:4200",
-								"https://shop4u-self.vercel.app/"
+								"https://shop4u-self.vercel.app"
 							)
 						);
 						cfg.setAllowedMethods(Arrays.asList("GET", "POST","DELETE","PUT"));
